@@ -1,0 +1,34 @@
+.saw{
+  color:gray;
+}
+.active{
+  color:red;
+}
+#hurai{
+  color:green;
+}
+a{
+  font-size:35px;
+}
+h1{
+  border-bottom:red solid 1px;
+  margin:0;
+}
+#grid ol{
+border-right:red solid 1px;
+width:360px;
+margin:0px;
+
+}
+#grid{
+  display:grid;
+  grid-template-columns:150px 1fr;
+}
+#grid #article{
+  padding-left:300px;
+
+}
+#blankSpace{
+
+
+}
